@@ -1,0 +1,8 @@
+open build/ReadItOut.app
+
+Space	Play / pause
+→ / ←	Next / previous sentence
+[ / ]	Slower / faster
+H	    Highlight the selected text, or the sentence being read if nothing is selected
+Delete	Remove highlights under the selection or the current sentence
+1 to 5	Yellow, green, blue, pink, purple
